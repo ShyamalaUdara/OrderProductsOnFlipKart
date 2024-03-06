@@ -1,0 +1,147 @@
+.nav{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    background-color:brown;
+    color: white;
+}
+.leftnav{
+    flex-basis: 40%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 40px;
+    font-size: 50px;
+    
+}
+.rightnav{
+    flex-basis: 50%;
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    margin-left:50px;
+    margin-top: 20px;
+
+}
+ .Links{
+     color: white;
+     font-size: 3vh;
+     text-decoration: none;
+} 
+.r2{
+    width: 200px;
+    height: 200px;
+    position:relative;
+    left:60px;
+    bottom:80px;
+}
+.r4
+{
+    position:relative;
+    bottom:100px;
+    background-color: red;
+    color:white;
+}
+.img{
+    height: 150px;
+    width: 200px;
+}
+.bu
+{
+    background-color: blue;
+    width:30px;
+}
+.pro
+{
+    background-color:red;
+}
+.back
+{
+    height:200px;
+    width:300px;
+    border:2 solid greenyellow;
+
+}
+.fl{
+
+    height:350px;
+    width:600px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.fll
+{
+    height:350px;
+    width:500px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+.pass
+{
+    margin-left: 30px;
+}
+.r{
+    height:300px;
+    width:600px;
+    border:2px solid blueviolet;
+    background-color: lightgrey;
+    position:relative;
+    left:250px;
+    top:30px;
+}
+.r1
+{
+    height:280px;
+    width:500px;
+    border:2px solid brown;
+    background-color:cyan;
+    position:relative;
+    left:40px;
+    top:30px;
+}
+.c{
+
+    height:350px;
+    width:600px;
+    border:2px solid blueviolet;
+    background-color: lightgrey;
+    position:relative;
+    left:30px;
+    top:30px;
+}
+.sub
+{
+    background-color:dodgerblue;
+    
+}
+.sub1
+{
+    color:white;
+}
+.b
+{
+    height:410px;
+    width:600px;
+    border:2px solid blueviolet;
+    background-color: lightgrey;
+    position:relative;
+    left:30px;
+    top:30px; 
+}
+.img1
+{
+    position:relative;
+    left:10px;
+    top:10px;
+    height:200px;
+    width:200px;
+}
+.ddr
+{
+    width:1200px;
+    height:600px;
+}
+body{
+    background-image: url("background.jpg");
+}
